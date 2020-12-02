@@ -1,1 +1,2 @@
-# twix-bot-games
+# bot-games-discord
+Bot for games
